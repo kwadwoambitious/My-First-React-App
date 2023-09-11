@@ -12,7 +12,7 @@ class YoutubeChannel extends React.Component {
 
   ButtonChange = () => {
     this.setState({
-      message: 'Thanks for subscribing!🙏',
+      message: 'Thanks for subscribing! 🙏',
       sub: 'Subscribed'
     })
   }
