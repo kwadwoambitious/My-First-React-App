@@ -33,4 +33,5 @@ button{
   border-radius: 30px;
   font-family: 'Bricolage Grotesque', sans-serif;
   cursor: pointer;
+  font-weight: bold;
 }
