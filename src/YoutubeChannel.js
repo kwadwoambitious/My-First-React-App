@@ -20,7 +20,7 @@ class YoutubeChannel extends React.Component {
   render() {
     return (
       <>
-        <h1>Welcome to My Youtube Channel</h1>
+        <h1>Welcome to My YouTube Channel</h1>
         <h2>{this.state.message}</h2>
         <button onClick={this.ButtonChange}>{this.state.sub}</button>
       </>
