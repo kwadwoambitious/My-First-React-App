@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import './App.css';
 
 const App  = () => {
@@ -12,3 +13,18 @@ const App  = () => {
 }
 
 export default App;
+=======
+import React from 'react';
+import './App.css';
+import YoutubeChannel from './YoutubeChannel';
+
+const App = () => {
+  return (
+        <div className="App">
+          <YoutubeChannel />
+        </div>
+  );
+}
+
+export default App;
+>>>>>>> 3e5ea34 (First Commit)

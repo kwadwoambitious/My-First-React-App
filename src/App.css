@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .App {
   text-align: center;
 }
@@ -39,3 +40,40 @@
 /* .App{
   text-align: center;
 } */
+=======
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,200;10..48,300;10..48,400;10..48,500;10..48,600;10..48,700;10..48,800&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Bricolage Grotesque', sans-serif;
+}
+h1{
+  color: white;
+  justify-content: center;
+  font-size: 3rem;
+}
+h2{
+  color: cyan;
+  margin: 20px 0;
+  font-size: 2rem;
+}
+button{
+  width: 130px;
+  font-size: 1.2rem;
+  padding: 10px;
+  border: none;
+  border: 3px solid purple;
+  border-radius: 30px;
+  font-family: 'Bricolage Grotesque', sans-serif;
+}
+>>>>>>> 3e5ea34 (First Commit)
