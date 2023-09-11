@@ -5,7 +5,7 @@ class YoutubeChannel extends React.Component {
     super(props)
 
     this.state = {
-      message: 'Subscribe to my channel!😢',
+      message: 'Subscribe to my channel! 😢',
       sub: 'Subscribe'
     }
   }
